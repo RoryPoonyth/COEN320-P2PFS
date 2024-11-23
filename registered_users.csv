@@ -1,0 +1,7 @@
+Name, IP Address, UDP Socket, Files
+david, 192.3.7.1, 4000, Test3.txt
+rory, 192.1.1.9, 3001, Test1.txt|TestFileForTransfer.txt|Test4.txt
+dopyo, 192.3.7.9, 5000, Test4.txt|Test5.txt
+god, 192.1.1, 2000, Test1.txt|Test5.txt
+TEST, 192.1.1.1, 2000, IAMGFOD.txt
+Rory, 132.205.46.77, 4000, 
